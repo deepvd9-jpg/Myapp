@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom Colors for Gaming Theme -->
+    <color name="colorPrimary">#1A202C</color>
+    <color name="colorPrimaryDark">#121820</color>
+    <color name="colorPrimaryLight">#2C3E50</color>
+    <color name="colorAccent">#FFD700</color> <!-- Gold/Yellow for accents -->
+
+    <color name="cardBackground">#2D3748</color>
+    <color name="textColorPrimary">#E2E8F0</color>
+    <color name="textColorSecondary">#A0AEC0</color>
+    <color name="textColorTertiary">#718096</color>
+
+    <color name="buttonBackground">#4A5568</color>
+    <color name="buttonText">#FFFFFF</color>
+
+    <color name="bottom_nav_item_color">#FFD700</color>
+
+</resources>
