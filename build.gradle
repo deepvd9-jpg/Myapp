@@ -9,10 +9,4 @@ buildscript {
     }
 }
 
-allprojects {
-    repositories {
-        google()
-        mavenCentral()
-        maven { url 'https://developer.cashfree.com/pg/android/v1/sdk' }
-    }
-}
+
